@@ -45,3 +45,5 @@ const getWebData = async function(baseUrl, userInput, urlEnd){
     }
 }
 
+module.exports = {getWebData}
+
